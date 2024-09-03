@@ -1,0 +1,6 @@
+👉 Step 02- 
+Goto Theme.liquid -->
+Search <body>
+upload this code --> 
+-------------------------------
+{% section 'ezfy-custom-fonts' %}
