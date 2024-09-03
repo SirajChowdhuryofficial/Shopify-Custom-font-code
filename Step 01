@@ -1,5 +1,6 @@
 👉Step 01- 
 Create a section- "ezfy-custom-fonts"   --> Then upload this Code -->>
+---------------------------------------------------------------------
 
 {% if section.settings.enable %}
   <style data-custom-fonts>
